@@ -4,26 +4,20 @@ Chat Application Project Using Python
 ```markdown
 # Chat Application
 
-The Chat Application is a real-time messaging platform that allows users to communicate with each other through text-based chat. This application is built using [insert technologies used] and provides the following key features:
+The Chat Application is a real-time messaging platform that allows users to communicate with each other through text-based chat. This application provides the following key features:
 
 - Real-time messaging
 - User authentication and authorization
 - Chat rooms or private conversations
-- [Any other important features]
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Technologies](#technologies)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Demo
-
-[Insert a link to a live demo of your application if available]
 
 ## Features
 
@@ -31,7 +25,6 @@ The Chat Application is a real-time messaging platform that allows users to comm
 - **User Authentication:** Secure user authentication and authorization system.
 - **Chat Rooms:** Users can join or create chat rooms for group conversations.
 - **Private Conversations:** Ability to have one-on-one private conversations.
-- **[Add more features]**
 
 ## Installation
 
@@ -56,17 +49,7 @@ The Chat Application is a real-time messaging platform that allows users to comm
    npm start  # or yarn start
    ```
 
-## Usage
 
-[Provide instructions on how to use your application, including how to create an account, start a chat, join a chat room, etc.]
-
-## Technologies
-
-- Frontend: [List of frontend technologies used]
-- Backend: [List of backend technologies used]
-- Database: [List of databases used]
-- Authentication: [Authentication methods used, e.g., JWT]
-- [Any other relevant technologies]
 
 ## Contributing
 
@@ -82,8 +65,7 @@ Please make sure to follow the project's coding style and conventions and write 
 
 ## License
 
-This project is licensed under the [License Name]. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Tanvi Sharma. See the [LICENSE](LICENSE) file for details.
 
 ```
 
-In this template, replace the placeholders with your project's specific information, including the features, technologies used, and license details. You may also want to include a license file (e.g., `LICENSE`) in your repository, which specifies the terms under which others can use or contribute to your project.
